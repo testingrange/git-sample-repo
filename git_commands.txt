@@ -1,0 +1,2 @@
+git init - initiation of the repository
+git status - status of the repository
