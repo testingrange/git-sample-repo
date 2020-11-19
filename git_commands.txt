@@ -1,6 +1,8 @@
-git init -> initiation of the repository
+git init -> initializes the Git repository
 git status -> status of the repository
 git version -> version of Git
 git add <name of the file> -> add file for tracking
 git rm --cached <file> -> To unstage/remove from tracking
 git commit -m "commit message/ comment" -> commit file to repository
+
+
