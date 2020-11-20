@@ -1,0 +1,10 @@
+git init -> initializes the Git repository
+git status -> status of the repository
+git version -> version of Git
+git add <name of the file> -> add file for tracking
+git rm --cached <file> -> To unstage/remove from tracking
+git commit -m "commit message/ comment" -> commit file to repository
+git diff -> shows differences before adding file
+git diff --staged -> shows differences after changes were added
+
+git log <filename> -> provides a history of the file
