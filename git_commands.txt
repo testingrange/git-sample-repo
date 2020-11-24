@@ -8,3 +8,8 @@ git diff -> shows differences before adding file
 git diff --staged -> shows differences after changes were added
 
 git log <filename> -> provides a history of the file
+
+
+______________________________
+!!!Text added session 2////
+______________________________
